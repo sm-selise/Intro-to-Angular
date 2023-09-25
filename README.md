@@ -1,5 +1,5 @@
 # Introduction to Angular
-BUP Industrial Attachment 2022
+
 
 ### Topics Discussed
 * Why use frameworks?
